@@ -1,0 +1,44 @@
+body {
+	background-color: #aa96da;
+	margin: 20px 100px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3rem;
+	text-align: center;
+}
+.heading {
+	font-family: 'Suez One', serif;
+	font-size: 3rem;
+	color: #fff;
+	margin: 50px;
+}
+
+.section {
+	padding: 20px 10px;
+	border: 2px solid;
+	border-color: #fff;
+}
+.alphabet {
+  color: #fff;
+	font-size: 5rem;
+	font-weight: bold;
+	text-align: left;
+	padding-right: 100px;
+}
+.picture {
+	font-size: 4rem;
+	text-align: right;
+}
+.section:hover {
+	color: #000;
+	background-color: #fff;
+
+}
+.footer {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2rem;
+	margin: 20px;
+	text-align: center;
+}
+.animate {
+	background-color: #fff;
+}
